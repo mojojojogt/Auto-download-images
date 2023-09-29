@@ -1,0 +1,6 @@
+selenium==3.141.0
+requests==2.25.1
+pillow
+webdriver_manager
+GoogleImageScraper
+#pip install GoogleImageScraper patch selenium
